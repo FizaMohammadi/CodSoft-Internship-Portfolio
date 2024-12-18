@@ -1,1 +1,20 @@
-IRIS FLOWER CLASSIFICATION
+🌸 Iris Flower Classification 🌱
+📜 Project Overview
+In this project, I built a classification model using the Iris dataset to predict the species of Iris flowers: Setosa, Versicolor, and Virginica. The model was trained using key features like sepal length, sepal width, petal length, and petal width.
+
+🧰 Tools & Libraries
+Programming Language: Python 🐍
+Libraries:
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+🚀 Objective
+Classify Iris flowers into their respective species based on their physical features using machine learning algorithms.
+
+🏆 Results
+SVM: Accuracy = 96.67%
+Random Forest: Accuracy = 100% 🎯
+📂 Project Structure
+data/: Contains the Iris dataset.
+notebooks/: Jupyter notebooks with code for training and evaluating models.
