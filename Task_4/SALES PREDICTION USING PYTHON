@@ -1,1 +1,28 @@
-SALES PREDICTION USING PYTHON
+🚀 Sales Prediction Model
+📜 Project Overview
+In this project, I developed a sales prediction model to forecast product sales based on factors such as advertising expenditure,
+target audience, and platform selection (TV, Radio, Newspaper). Using machine learning algorithms,
+I analyzed historical data to make accurate predictions about future sales.
+
+🧰 Tools & Libraries
+Programming Language: Python 🐍
+Libraries:
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+🔧 Algorithms Used
+Linear Regression
+Random Forest Regressor
+Decision Tree Regressor
+Support Vector Regressor (SVR)
+🎯 Objective
+The goal of this project was to predict product sales based on advertising factors and to understand the impact of each factor on sales performance. 
+The model was evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score.
+
+📂 Project Structure
+data/: Contains the dataset used for training and testing.
+notebooks/: Jupyter notebooks with the code to train and evaluate the models.
+
+
