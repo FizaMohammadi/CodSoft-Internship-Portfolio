@@ -1,0 +1,44 @@
+🎥 Predicting Movie Ratings with Python 🧠✨🎬
+📜 Project Overview
+This project is part of my CodSoft Internship, where I explored the fascinating world of machine learning and data science to predict movie ratings. Using features like genre, cast, budget, etc., I trained and evaluated multiple models to understand their performance in prediction tasks.
+
+🧰 Tools & Technologies
+Programming Language: Python 🐍
+Libraries Used:
+Pandas 🗃️
+NumPy 🔢
+Scikit-learn 🧠
+Matplotlib & Seaborn 📊
+🚀 Objectives
+Preprocess and clean the dataset.
+Perform exploratory data analysis (EDA).
+Build and compare the performance of multiple machine learning models.
+Identify the best-performing model based on evaluation metrics.
+🛠️ Models 
+Linear Regression: MSE = 0.8776, R² = -0.0013
+KNN Regressor: MSE = 1.0157, R² = -0.1589
+Decision Tree: MSE = 1.0165, R² = -0.1598
+Random Forest: MSE = 0.9629, R² = -0.0987
+Gradient Boosting: MSE = 0.8687, R² = 0.0088
+XGBoost: MSE = 0.8761, R² = 0.0004
+
+🏆 Results
+Among all the models, Gradient Boosting performed the best with:
+
+📉 Mean Squared Error: 0.8687
+📈 R² Score: 0.0088
+📂 Project Structure
+data/: Contains the dataset used for the project.
+notebooks/: Includes Jupyter notebooks for EDA, model training, and evaluation.
+src/: Python scripts for data preprocessing and model building.
+README.md: Project documentation.
+📖 Insights
+Features like genre, cast, and budget significantly impact movie ratings.
+Gradient Boosting emerged as the most reliable model for this dataset, showcasing the potential of boosting techniques for regression tasks.
+🤝 Acknowledgments
+I am grateful to CodSoft for providing this opportunity to work on a practical machine learning project.
+
+📈 Future Enhancements
+Experiment with additional features for better predictions.
+Fine-tune the models to improve performance.
+Explore deep learning models for advanced prediction capabilities.
